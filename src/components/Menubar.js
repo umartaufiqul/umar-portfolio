@@ -8,13 +8,13 @@ export default function Menubar() {
             <Navbar bg="light" className="justify-content-center">
                 <Nav className="justify-content-center">
                     <Nav.Item>
-                        <Nav.Link href="#">Introduction</Nav.Link>
+                        <Nav.Link href="/">Introduction</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
                         <Nav.Link href="#">About</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
-                        <Nav.Link href="#">Project</Nav.Link>
+                        <Nav.Link href="/project">Project</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
                         <Nav.Link href="#">Timeline</Nav.Link>

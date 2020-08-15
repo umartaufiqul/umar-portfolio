@@ -3,3 +3,12 @@
     min-width: 5rem;
     min-height: 5rem;
 }
+
+.white-bg {
+    background-color: mediumaquamarine;
+}
+
+.secondary-bg {
+    background-color: #646e74;
+    color: #f1c79acb;
+}
